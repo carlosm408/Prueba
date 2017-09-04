@@ -1,6 +1,5 @@
 <html>
 <head>
-<title> hola soy una prueba
-</title>
+<title>hola soy una prueba</title>
 </head>
 </html>
